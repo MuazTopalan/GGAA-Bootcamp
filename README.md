@@ -4,9 +4,9 @@ Team Unity 67
 # Product-Related Information
 ## Team Members
 * Gözde AÇA - Scrum Master / Developer
-* Ahmed Muaz Topalan - Product Owner / Developer
+* Ahmed Muaz Topalan - Product Owner / Lead Developer / Game Designer
 * Salih Bilici - Developer
-* Meliha Dereli - Developer
+* Meliha Dereli - Developer / Game Artist
 * Mehmet Beyazıt Kaygı - Developer
 ## Name of the Product
 **Sinistower**
